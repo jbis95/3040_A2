@@ -14,8 +14,10 @@ To start writing in markdown, it is necessary to download a text editor that sup
 
 1. ###### Download Atom
 Simply visit [Atom.io](Atom.io) and download for your platform.
+
 2. ###### Open a project and file
 When you first open Atom, Atom requires you to choose a location for your project and then create files in the directory.
+
 3. ###### Tips in markdown
 Some useful things to know about markdown are the following:
 | Feature      | Markdown     | Result   |
@@ -26,6 +28,7 @@ Some useful things to know about markdown are the following:
 | New Line | "Double Space" | No Preview Available |
 
 Markdown allows as many headings as you want, just add the number of \# for the heading level you need.
+
 4. ###### Writing the resume
 You most likely have your resume done in Word, so to translate everything in markdown, type your resume using some of the tips in step 3.
 
