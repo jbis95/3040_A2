@@ -36,10 +36,10 @@ Note that for a new line, GitHub Flavoured Markdown (GFM) requires "Enter" in be
 Most likely have a resume is done in Word, so to translate everything in markdown, type the resume using some of the tips in step 3 and format it until it looks good.
 
 ##### GitHub Pages
-In GitHub we assume the user has an existing account and knows how to create a repository. Once that is done, do the following:
+In a GitHub account create a repository. Once that is done, do the following:
 
-1. ###### Go to repository
-Go to your repository -> Settings -> Scroll down to GitHub Pages  
+1. ###### Find GitHub Pages
+In the repository go to ```Settings -> Scroll down to GitHub Pages``` 
 
 2. ###### Add a Jekyll theme
 GitHub has a selection of Jekyll themes to choose from and whenever you commit a theme, an index.md and \_config.yml is generated. Optionally there is the option of downloading any Jekyll theme from other sources which then you push the theme in your repository. 
