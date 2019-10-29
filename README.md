@@ -38,20 +38,20 @@ In GitHub we assume the user has an existing account and knows how to create a r
 
 1. ###### Go to repository
 Go to your repository -> Settings -> Scroll down to GitHub Pages  
+
 2. ###### Add a Jekyll theme
-GitHub has a selection of Jekyll themes to choose from and whenever you commit a theme, an index.md and \_config.yml is generated. Optionally there is the option of downloading any Jekyll theme from other sources which then you push the theme in your repository.  
+GitHub has a selection of Jekyll themes to choose from and whenever you commit a theme, an index.md and \_config.yml is generated. Optionally there is the option of downloading any Jekyll theme from other sources which then you push the theme in your repository. 
+
 3. ###### Modify index.md
 This file is where you write your resume in markdown will be stored.  
+
 4. ###### Optionally modify \_config.yml
 This file allows to link multiple pages together on your GitHub Pages site. It is optional since in this tutorial we are dealing with a one page resume.  
+
 5. ###### Commit and Push your changes
-```markdown
-git add .
-git commit -m "message here"
-git push
 
 5. ###### Viewing your page
-To view your GitHub Pages site, go to https://[GitHub user ID].github.io/[repository name]/
+To view your GitHub Pages site, go to ```https://[GitHub user ID].github.io/[repository name]/```
 
 
 ##### Jekyll Themes
