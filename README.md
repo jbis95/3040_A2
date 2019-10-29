@@ -50,7 +50,7 @@ At this stage, the resume is ready to be shown to world! To visit a GitHub Pages
 Yes/No, writing in markdown can be done on any platform even mobile devices, GitHub I found it easier on a desktop operating system but you can still write the README directly on GitHub and also change the Jekyll theme that is supported by GitHub Pages. Atom on the other hand only supports Windows, MacOS and Linux, no mobile devices. The developer are not interested in mobile at the moment.
 
 2. What happens if I change themes later?  
-Good news! Everything stays where you expect them to be. There may be some problems with tables because of the fact that markdown has many different flavours and no standard for it. To be safe it is recommended to stay with a Jekyll theme that is fully compatible with GitHub Pages.
+Good news! Everything stays where you expect them to be. There may be some problems with tables because of the fact that Markdown has many different flavours and no standard for it. To be safe it is recommended to stay with a Jekyll theme that is fully compatible with GitHub Pages.
 
 ### Authors and Acknowledgments
 Thank you to my group partner Naol for feedback on this assignment and Ms. Penner for improving the structure of the README.
