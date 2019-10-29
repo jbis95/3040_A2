@@ -21,16 +21,16 @@ To write things in Markdown, download a text editor such as [Atom](Atom.io). Ato
 Most likely a resume is written in Word, so to convert into Markdown, type in the whole resume and format it to make it look like in Word.
 
 #### Step 2: Host Resume on GitHub Pages
-At the end of this step the Markdown file ```index.md``` will become public and render at a url specified later. The resume will be viewable exactly how the preview window in Atom is shown. GitHub Pages is a feature in GitHub that allows hosting a static site for free! All you need is a Markdown file and a GitHub account. 
+At the end of this step the Markdown file ```index.md``` will become public and render at a url specified later. The resume will be viewable exactly how the preview window in Atom is shown. GitHub Pages is a feature in GitHub that allows hosting a static site for free! All you need is a Markdown file and a GitHub account. Exactly one site per GitHub account is allowed which makes it perfect to host a resume to impress future employers.
 
 ##### 1. Login to GitHub
-Go to ```github.com``` and enter username and password.
+Go to ```github.com``` and enter a username and a password.
 
 ##### 2. Create a new repository
-On the main page, create a new repository. All the files created will be stored in this repository and accessible to anyone.
+On the main page, create a new repository. The name of the repository matters as stated in the mext step. All the files created will be stored in this repository and accessible to anyone.
 
 ##### 3. Name the repository [user].github.io
-The name of the repository must have the name [user].github.io where "user" is the username of the github account. If the repository has a different name, GitHub Pages will not work with the url that is given to every GitHub account to visit the site.
+The name of the repository must have the name [user].github.io where "user" is the username of the GitHub account. If the repository has a different name, GitHub Pages will not work with the url that is given to every GitHub account to visit the site.
 
 ##### 4. Copy/Paste resume into index.md
 GitHub Pages requires the file that renders the page to be named ```index.md``` which is similar to other web servers. Copy and paste the resume in Markdown into this file, save it and push. Then your resume will show in raw Markdown at ```[user].github.io```. The next step will allow the resume to look prettier by adding a theme.
