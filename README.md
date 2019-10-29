@@ -41,55 +41,6 @@ Jekyll is the most popular static site generator that is well integrated into Gi
 #### Step 4: View your resume online
 At this stage, the resume is ready to be shown to world! To visit a GitHub Pages site, simply enter ```[user].github.io``` in any browser. GitHub Pages will render the Markdown file with the Jekyll theme for anyone to see. One more thing is that the title of the page will be the same as the repository. To change this, open ```_config.yml``` and add the line ```title: RESUME```. This file allows you to do many other things that are outside of this tutorial. For information on how to do more advanced things with Github pages, start with this [tutorial](). 
 
-##### Markdown
-To start writing in markdown, it is necessary to download a text editor that supports markdown. For example, [Atom](Atom.io) is a modern and popular choice for markdown because of its support for multiple markdown flavours. Atom allows to see a live preview of the markdown in real time while typing which is very useful while writing.
-
-1. ###### Download Atom
-Simply visit [Atom.io](Atom.io) to download and install.
-
-2. ###### Open a project and file
-In initial launch of Atom, Atom requires choosing a location for a project and then all files created are in that directory.
-
-3. ###### Tips in markdown
-Some useful things to know about markdown are the following:
-
-Markdown allows as many headings, just add the number of \# for the heading level.
-
-Note that for a new line, GitHub Flavoured Markdown (GFM) requires "Enter" in between lines instead of "Double Space".
-
-4. ###### Writing the resume
-Most likely have a resume is done in Word, so to translate everything in markdown, type the resume using some of the tips in step 3 and format it until it looks good.
-
-##### GitHub Pages
-In a GitHub account create a repository. Once that is done, do the following:
-
-1. ###### Find GitHub Pages
-In the repository go to ```Settings -> Scroll down to GitHub Pages``` 
-
-2. ###### Add a Jekyll theme
-GitHub has a selection of Jekyll themes to choose from and whenever committing a theme, an index.md and \_config.yml are generated. There is also the option of downloading any Jekyll theme from other sources which then push the files in the repository. 
-
-3. ###### Writing your resume
-Open index.md, this markdown file is where you write your resume. Anything typed here will appear publicly online so be cautious not to put very sensitive information.
-
-4. ###### Optionally add more links
-This can be done in the file ```_config.yml``` which allows have multiple pages linked together on GitHub Pages. It is optional since this tutorial deals with a one page resume.  
-
-5. ###### Viewing your page
-Once everything is committed and pushed to GitHub, access the GitHub Pages site by going to ```https://[GitHub user ID].github.io/[repository name]/```.
-
-Voila! The resume is now live online.
-
-
-##### Jekyll Themes
-This section shows how to modify the Jekyll Front Matter.
-
-The Jekyll Front Matter is stored in the ```_config.yml``` file. At the moment the resume displays the ```repository name``` instead of ```resume```. To change the title, insert the following:
-
-```title: RESUME```
-
-and that is all!
-
 ### More resources
 
 #### Further Reading
