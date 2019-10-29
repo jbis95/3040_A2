@@ -30,7 +30,7 @@ Go to ```github.com``` and enter username and password.
 On the main page, create a new repository. All the files created will be stored in this repository and accessible to anyone.
 
 ##### 3. Name the repository [user].github.io
-
+The name of the repository must have the name [user].github.io where "user" is the username of the github account. If the repository has a different name, GitHub Pages will not work with the url that is given to every GitHub account to visit the site.
 
 ##### 4. Copy/Paste resume into index.md
 GitHub Pages requires the file that renders the page to be named ```index.md``` which is similar to other web servers. Copy and paste the resume in Markdown into this file, save it and push. Then your resume will show in raw Markdown at ```[user].github.io```. The next step will allow the resume to look prettier by adding a theme.
