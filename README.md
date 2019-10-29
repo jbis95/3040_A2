@@ -3,7 +3,7 @@
 ### Who is this for?
 Welcome to a tutorial for those who would like to use markdown to write a resume and publish on GitHub Pages with a Jekyll theme to make it stand out to future employers. 
 
-### Prerequisites
+### Necessary knowledge
 This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```pull```, ```init```, ```clone```, and ```commit```. No previous knowledge of Atom, Markdown, and Jekyll are required.
 
 ### Instructions
