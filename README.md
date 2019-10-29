@@ -1,10 +1,10 @@
 # How to Host Your Resume on GitHub Pages
 
 ### Who is this for?
-Tutorial on using markdown to write a resume and publish on GitHub pages with a Jekyll theme to make it stand out. We assume that the user has no experience with Atom nor with Jekyll, some experience with Markdown and a lot with GitHub.
+Welcome to a tutorial on using markdown to write a resume and publish on GitHub Pages with a Jekyll theme to make it stand out to future employers. 
 
 ### Prerequisites
-This tutorial assumes that the user has basic knowledge of GitHub usage such as push, pull, init, clone, and commit.
+This tutorial assumes that the user has basic knowledge of GitHub usage such as push, pull, init, clone, and commit. No previous knowledge of Atom, Markdown, and Jekyll are required.
 
 ### Instructions
 Before we begin, we will start to show in order Markdown, GitHub Pages and then Jekyll.
@@ -25,7 +25,7 @@ Some useful things to know about markdown are the following:
 |:-------------:|:-------------:|:---------:|
 | Bold Text     | \*\*Bold\*\* | **Bold** |
 | Heading 1      | \# Heading 1      | No Preview Available |
-| Links | \[Links](Enter url)     | [Links](127.0.0.1)
+| Links | \[Links](Enter url)     | [Links](#)
 | New Line | "Double Space" | No Preview Available |
 
 Markdown allows as many headings as you want, just add the number of \# for the heading level you need.
