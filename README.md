@@ -53,5 +53,6 @@ Yes/No, writing in markdown can be done on any platform even mobile devices, Git
 Good news! Everything stays where you expect them to be. There may be some problems with tables because of the fact that markdown has many different flavours and no standard for it. To be safe it is recommended to stay with a Jekyll theme that is fully compatible with GitHub Pages.
 
 ### Authors and Acknowledgments
-Thank you to my group partner Naol for feedback on this assignment.
+Thank you to my group partner Naol for feedback on this assignment and Ms. Penner for improving the structure of the README.
+
 Also the Jekyll theme is the slate theme on the list of GitHub Pages themes.
