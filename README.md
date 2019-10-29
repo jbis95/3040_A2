@@ -27,11 +27,13 @@ At the end of this step the Markdown file ```index.md``` will become public and 
 Go to ```github.com``` and enter username and password.
 
 ##### 2. Create a new repository
-
+On the main page, create a new repository. All the files created will be stored in this repository and accessible to anyone.
 
 ##### 3. Name the repository [user].github.io
 
+
 ##### 4. Copy/Paste resume into index.md
+GitHub Pages requires the file that renders the page to be named ```index.md```. Copy and paste the resume in Markdown into this file. Then your resume will show in raw Markdown at ```[user].github.io```. The next will allow the resume to look prettier by adding a theme.
 
 #### Step 3: Add a Jekyll theme
 
