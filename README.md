@@ -59,7 +59,9 @@ Voila! The resume is now live online.
 ##### Jekyll Themes
 This section shows how to modify the Jekyll Front Matter.
 
-The Jekyll Front Matter is stored in the ```_config.yml``` file. 
+The Jekyll Front Matter is stored in the ```_config.yml``` file. At the moment the resume displays the ```repository name``` instead of ```resume```. To change the title, insert the following:
+
+```title: RESUME```
 
 ### More resources
 
