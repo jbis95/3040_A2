@@ -11,6 +11,13 @@ This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```
 #### Step 1: Edit Resume with Markdown
 To write things in Markdown, download a text editor such as Atom. Atom is light weight, modern and supports many different flavours of Markdown. To get started using Markdown, go visit this [tutorial]() to learn some basic Markdown before continuing. In addition, below is a table of useful Markdown features that are frequenly used to write a resume.
 
+| Feature      | Markdown     | Result   |
+|:-------------:|:-------------:|:---------:|
+| Bold Text     | \*\*Bold\*\* | **Bold** |
+| Heading 1      | \# Heading 1      | No Preview Available |
+| Links | \[Links](Enter url)     | [Links](#)
+| New Line | "Double Space" or "Enter" | No Preview Available |
+
 #### Step 2: Host Resume on GitHub Pages
 
 ##### 1. Login to GitHub
@@ -27,13 +34,6 @@ To write things in Markdown, download a text editor such as Atom. Atom is light 
 
 ##### Markdown
 To start writing in markdown, it is necessary to download a text editor that supports markdown. For example, [Atom](Atom.io) is a modern and popular choice for markdown because of its support for multiple markdown flavours. Atom allows to see a live preview of the markdown in real time while typing which is very useful while writing.
-
-| Feature      | Markdown     | Result   |
-|:-------------:|:-------------:|:---------:|
-| Bold Text     | \*\*Bold\*\* | **Bold** |
-| Heading 1      | \# Heading 1      | No Preview Available |
-| Links | \[Links](Enter url)     | [Links](#)
-| New Line | "Double Space" or "Enter" | No Preview Available |
 
 1. ###### Download Atom
 Simply visit [Atom.io](Atom.io) to download and install.
