@@ -1,11 +1,11 @@
 ## Jasmin Bissonnette
-705-11 Evergreen Place
-Winnipeg, Manitoba R3L 2T9
-(204) 510-1126
-jasmingbissonnette@gmail.com
+705-11 Evergreen Place  
+Winnipeg, Manitoba R3L 2T9  
+(204) 510-1126  
+jasmingbissonnette@gmail.com  
 
 ### JOB OBJECTIVE
-To gain full-time employment as a Customer Service Representative
+To gain full-time employment as a Software Developer
 
 ### HIGHLIGHT OF QUALIFICATIONS
 - Joint Honours Student at the University of Manitoba, majoring in Computer Science and Mathematics
@@ -79,41 +79,3 @@ Ecole Pointe-des-Chenes, Ste. Anne, Manitoba
 - 2003-2013 Member of a curling team, Ste. Anne Curling Club
 - 2008-2012 Member of the school's volleyball team, Ecole Pointe-des-Chenes
 - 2003-2008 Piano lessons
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jbis95/3040_A2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jbis95/3040_A2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
