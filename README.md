@@ -6,7 +6,7 @@ Welcome to a tutorial for those who would like to use markdown to write a resume
 ### Necessary knowledge
 This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```pull```, ```init```, ```clone```, and ```commit```. No previous knowledge of Atom, Markdown, and Jekyll are required.
 
-### Instructions
+### The how to
 Before we begin, we will start to show in order Markdown, GitHub Pages and then Jekyll.
 
 ##### Markdown
