@@ -7,7 +7,7 @@ Welcome to a tutorial for those who would like to use markdown to write a resume
 This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```pull```, ```init```, ```clone```, and ```commit```. No previous knowledge of Atom, Markdown, and Jekyll are required.
 
 ### The how to
-Before we begin, we will start to show in order Markdown, GitHub Pages and then Jekyll.
+Before beginning, start in order from Markdown, to GitHub Pages and then Jekyll.
 
 ##### Markdown
 To start writing in markdown, it is necessary to download a text editor that supports markdown. For example, Atom is a modern and popular choice for markdown because of its support for multiple markdown flavours. Atom allows to see a live preview of the markdown in real time while typing which is very useful while writing.
