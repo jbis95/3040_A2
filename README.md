@@ -21,7 +21,7 @@ To write things in Markdown, download a text editor such as [Atom](Atom.io). Ato
 Most likely a resume is written in Word, so to convert into Markdown, type in the whole resume and format it to make it look like in Word.
 
 #### Step 2: Host Resume on GitHub Pages
-At the end of this step the Markdown file ```index.md``` will become public and render at a url specified later. The resume will be viewable exactly how the preview window in Atom shown.
+At the end of this step the Markdown file ```index.md``` will become public and render at a url specified later. The resume will be viewable exactly how the preview window in Atom is shown. GitHub Pages is a feature in GitHub that allows hosting a static site for free! All you need is a Markdown file and a GitHub account. 
 
 ##### 1. Login to GitHub
 Go to ```github.com``` and enter username and password.
@@ -33,7 +33,7 @@ On the main page, create a new repository. All the files created will be stored 
 
 
 ##### 4. Copy/Paste resume into index.md
-GitHub Pages requires the file that renders the page to be named ```index.md```. Copy and paste the resume in Markdown into this file. Then your resume will show in raw Markdown at ```[user].github.io```. The next will allow the resume to look prettier by adding a theme.
+GitHub Pages requires the file that renders the page to be named ```index.md``` which is similar to other web servers. Copy and paste the resume in Markdown into this file, save it and push. Then your resume will show in raw Markdown at ```[user].github.io```. The next step will allow the resume to look prettier by adding a theme.
 
 #### Step 3: Add a Jekyll theme
 Jekyll is the most popular static site generator that is well integrated into GitHub Pages. Its popularity invites a well known community of designers and developers to design and build themes that anyone can use. GitHub has chosen several themes that are made to be compatible with GitHub Pages. Simply go to ```Settings``` and scroll down to Github Pages and so to add and change themes is just one click of a button. Furthermore, choosing a theme from another source will also work by forking a themes repository and modifying the files to fit the resume.
