@@ -4,19 +4,19 @@
 Welcome to a tutorial for those who would like to use markdown to write a resume and publish on GitHub Pages with a Jekyll theme to make it stand out to future employers. 
 
 ### Prerequisites
-This tutorial assumes that the user has basic knowledge of GitHub usage such as ```push```, ```pull```, ```init```, ```clone```, and ```commit```. No previous knowledge of Atom, Markdown, and Jekyll are required.
+This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```pull```, ```init```, ```clone```, and ```commit```. No previous knowledge of Atom, Markdown, and Jekyll are required.
 
 ### Instructions
 Before we begin, we will start to show in order Markdown, GitHub Pages and then Jekyll.
 
 ##### Markdown
-To start writing in markdown, it is necessary to download a text editor that supports markdown. For example, Atom is a modern and popular choice for markdown and is the one of choice for me. Atom allows you to see the results of the markdown in real time while you are typing which I find it useful while writing.
+To start writing in markdown, it is necessary to download a text editor that supports markdown. For example, Atom is a modern and popular choice for markdown because of its support for multiple markdown flavours. Atom allows to see a live preview of the markdown in real time while typing which is very useful while writing.
 
 1. ###### Download Atom
-Simply visit [Atom.io](Atom.io) and download for your platform.
+Simply visit [Atom.io](Atom.io) to download and install.
 
 2. ###### Open a project and file
-When you first open Atom, Atom requires you to choose a location for your project and then create files in the directory.
+In initial launch of Atom, Atom requires choosing a location for a project and then all files created are in that directory.
 
 3. ###### Tips in markdown
 Some useful things to know about markdown are the following:
@@ -26,12 +26,14 @@ Some useful things to know about markdown are the following:
 | Bold Text     | \*\*Bold\*\* | **Bold** |
 | Heading 1      | \# Heading 1      | No Preview Available |
 | Links | \[Links](Enter url)     | [Links](#)
-| New Line | "Double Space" | No Preview Available |
+| New Line | "Double Space" or "Enter" | No Preview Available |
 
-Markdown allows as many headings as you want, just add the number of \# for the heading level you need.
+Markdown allows as many headings, just add the number of \# for the heading level.
+
+Note that for a new line, GitHub Flavoured Markdown (GFM) requires "Enter" in between lines instead of "Double Space".
 
 4. ###### Writing the resume
-You most likely have your resume done in Word, so to translate everything in markdown, type your resume using some of the tips in step 3.
+Most likely have a resume is done in Word, so to translate everything in markdown, type the resume using some of the tips in step 3 and format it until it looks good.
 
 ##### GitHub Pages
 In GitHub we assume the user has an existing account and knows how to create a repository. Once that is done, do the following:
@@ -56,6 +58,8 @@ To view your GitHub Pages site, go to ```https://[GitHub user ID].github.io/[rep
 
 ##### Jekyll Themes
 This section shows how to modify the Jekyll Front Matter.
+
+The Jekyll Front Matter is stored in the ```_config.yml``` file. 
 
 ### More resources
 
