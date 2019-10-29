@@ -36,7 +36,7 @@ On the main page, create a new repository. All the files created will be stored 
 GitHub Pages requires the file that renders the page to be named ```index.md```. Copy and paste the resume in Markdown into this file. Then your resume will show in raw Markdown at ```[user].github.io```. The next will allow the resume to look prettier by adding a theme.
 
 #### Step 3: Add a Jekyll theme
-Jekyll is the most popular static site generator that is well integrated into GitHub Pages. Its popularity invites a well known community of designers and developers to design and build themes that anyone can use. GitHub has chosen several themes that are made to be compatible with GitHub Pages. So adding and changing themes is just one click of a button.
+Jekyll is the most popular static site generator that is well integrated into GitHub Pages. Its popularity invites a well known community of designers and developers to design and build themes that anyone can use. GitHub has chosen several themes that are made to be compatible with GitHub Pages. So adding and changing themes is just one click of a button. Furthermore, choosing a theme from another source will also work by forking a themes repository and modifying the files to fit the resume.
 
 #### Step 4: View your resume online
 
