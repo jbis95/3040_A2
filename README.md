@@ -19,10 +19,13 @@ To write things in Markdown, download a text editor such as [Atom](Atom.io). Ato
 | New Line | "Double Space" or "Enter" | No Preview Available |
 
 #### Step 2: Host Resume on GitHub Pages
+At the end of this step the Markdown file ```index.md``` will become public and render at a url specified later. The resume will be viewable exactly how the preview window in Atom shown.
 
 ##### 1. Login to GitHub
+Go to ```github.com``` and enter username and password.
 
 ##### 2. Create a new repository
+
 
 ##### 3. Name the repository [user].github.io
 
