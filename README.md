@@ -7,11 +7,19 @@ Welcome to a tutorial for those who would like to use Markdown to write a resume
 This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```pull```, ```init```, ```clone```, and ```commit```. No previous knowledge of Atom, Markdown, and Jekyll are required.
 
 ### Instruction
-Before beginning, start in order from Markdown, to GitHub Pages and then Jekyll.
+
 
 #### Step 1: Edit Resume with Markdown
 
 #### Step 2: Host Resume on GitHub Pages
+
+##### 1. Login to GitHub
+
+##### 2. Create a new repository
+
+##### 3. Name the repository [user].github.io
+
+##### 4. Copy/Paste resume into index.md
 
 #### Step 3: Add a Jekyll theme
 
