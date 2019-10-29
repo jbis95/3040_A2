@@ -33,13 +33,13 @@ You most likely have your resume done in Word, so to translate everything in mar
 In GitHub we assume the user has an existing account and knows how to create a repository. Once that is done, do the following:
 
 1. ###### Go to repository
-Go to your repository -> Settings -> Scroll down to GitHub Pages
+Go to your repository -> Settings -> Scroll down to GitHub Pages  
 2. ###### Add a Jekyll theme
-GitHub has a selection of Jekyll themes to choose from and whenever you commit a theme, an index.md and \_config.yml is generated. Optionally there is the option of downloading any Jekyll theme from other sources which then you push the theme in your repository.
+GitHub has a selection of Jekyll themes to choose from and whenever you commit a theme, an index.md and \_config.yml is generated. Optionally there is the option of downloading any Jekyll theme from other sources which then you push the theme in your repository.  
 3. ###### Modify index.md
-This file is where you write your resume in markdown will be stored.
+This file is where you write your resume in markdown will be stored.  
 4. ###### Optionally modify \_config.yml
-This file allows to link multiple pages together on your GitHub Pages site. It is optional since in this tutorial we are dealing with a one page resume.
+This file allows to link multiple pages together on your GitHub Pages site. It is optional since in this tutorial we are dealing with a one page resume.  
 5. ###### Commit and Push your changes
 ```markdown
 git add .
