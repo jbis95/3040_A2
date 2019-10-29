@@ -1,12 +1,12 @@
 # How to Host Your Resume on GitHub Pages
 
-### Who is this for?
+### Audience
 Welcome to a tutorial for those who would like to use markdown to write a resume and publish on GitHub Pages with a Jekyll theme to make it stand out to future employers. 
 
-### Necessary knowledge
+### Prerequisites
 This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```pull```, ```init```, ```clone```, and ```commit```. No previous knowledge of Atom, Markdown, and Jekyll are required.
 
-### The how to
+### Instruction
 Before beginning, start in order from Markdown, to GitHub Pages and then Jekyll.
 
 ##### Markdown
@@ -67,13 +67,15 @@ and that is all!
 
 ### More resources
 
-### Authors and Acknowledgments
-Thank you to my group partner Naol for feedback on this assignment.
-Also the Jekyll theme is the slate theme on the list of GitHub Pages themes.
+#### Further Reading
 
-### FAQ
+#### FAQ
 1. Do these tools work on any platform?  
 Yes/No, writing in markdown can be done on any platform even mobile devices, GitHub I found it easier on a desktop operating system but you can still write the README directly on GitHub and also change the Jekyll theme that is supported by GitHub Pages. Atom on the other hand only supports Windows, MacOS and Linux, no mobile devices. The developer are not interested in mobile at the moment.
 
 2. What happens if I change themes later?  
 Good news! Everything stays where you expect them to be. There may be some problems with tables because of the fact that markdown has many different flavours and no standard for it. To be safe it is recommended to stay with a Jekyll theme that is fully compatible with GitHub Pages.
+
+### Authors and Acknowledgments
+Thank you to my group partner Naol for feedback on this assignment.
+Also the Jekyll theme is the slate theme on the list of GitHub Pages themes.
