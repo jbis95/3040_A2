@@ -20,6 +20,7 @@ When you first open Atom, Atom requires you to choose a location for your projec
 
 3. ###### Tips in markdown
 Some useful things to know about markdown are the following:
+
 | Feature      | Markdown     | Result   |
 |:-------------:|:-------------:|:---------:|
 | Bold Text     | \*\*Bold\*\* | **Bold** |
