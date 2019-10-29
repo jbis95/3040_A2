@@ -9,6 +9,14 @@ This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```
 ### Instruction
 Before beginning, start in order from Markdown, to GitHub Pages and then Jekyll.
 
+#### Step 1: Edit Resume with Markdown
+
+#### Step 2: Host Resume on GitHub Pages
+
+#### Step 3: Add a Jekyll theme
+
+#### Step 4: View your resume online
+
 ##### Markdown
 To start writing in markdown, it is necessary to download a text editor that supports markdown. For example, Atom is a modern and popular choice for markdown because of its support for multiple markdown flavours. Atom allows to see a live preview of the markdown in real time while typing which is very useful while writing.
 
