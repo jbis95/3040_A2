@@ -63,6 +63,8 @@ The Jekyll Front Matter is stored in the ```_config.yml``` file. At the moment t
 
 ```title: RESUME```
 
+and that is all!
+
 ### More resources
 
 ### Authors and Acknowledgments
