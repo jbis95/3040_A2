@@ -18,6 +18,8 @@ To write things in Markdown, download a text editor such as [Atom](Atom.io). Ato
 | Links | \[Links](Enter url)     | [Links](#)
 | New Line | "Double Space" or "Enter" | No Preview Available |
 
+Most likely a resume is written in Word, so to convert into Markdown, type in the whole resume and format it to make it look like in Word.
+
 #### Step 2: Host Resume on GitHub Pages
 At the end of this step the Markdown file ```index.md``` will become public and render at a url specified later. The resume will be viewable exactly how the preview window in Atom shown.
 
