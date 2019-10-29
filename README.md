@@ -1,7 +1,7 @@
 # How to Host Your Resume on GitHub Pages
 
 ### Audience
-Welcome to a tutorial for those who would like to use markdown to write a resume and publish on GitHub Pages with a Jekyll theme to make it stand out to future employers. 
+Welcome to a tutorial for those who would like to use Markdown to write a resume. In addition, publish it on GitHub Pages and applying Jekyll theme to make it stand out to future employers. 
 
 ### Prerequisites
 This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```pull```, ```init```, ```clone```, and ```commit```. No previous knowledge of Atom, Markdown, and Jekyll are required.
