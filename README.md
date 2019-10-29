@@ -8,8 +8,8 @@ This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```
 
 ### Instruction
 
-
 #### Step 1: Edit Resume with Markdown
+To write things in Markdown, download a text editor such as Atom. Atom is light weight, modern and supports many different flavours of Markdown. To get started using Markdown, go visit this [tutorial]() to learn some basic Markdown before continuing. In addition, below is a table of useful Markdown features that are frequenly used to write a resume.
 
 #### Step 2: Host Resume on GitHub Pages
 
@@ -26,7 +26,14 @@ This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```
 #### Step 4: View your resume online
 
 ##### Markdown
-To start writing in markdown, it is necessary to download a text editor that supports markdown. For example, Atom is a modern and popular choice for markdown because of its support for multiple markdown flavours. Atom allows to see a live preview of the markdown in real time while typing which is very useful while writing.
+To start writing in markdown, it is necessary to download a text editor that supports markdown. For example, [Atom](Atom.io) is a modern and popular choice for markdown because of its support for multiple markdown flavours. Atom allows to see a live preview of the markdown in real time while typing which is very useful while writing.
+
+| Feature      | Markdown     | Result   |
+|:-------------:|:-------------:|:---------:|
+| Bold Text     | \*\*Bold\*\* | **Bold** |
+| Heading 1      | \# Heading 1      | No Preview Available |
+| Links | \[Links](Enter url)     | [Links](#)
+| New Line | "Double Space" or "Enter" | No Preview Available |
 
 1. ###### Download Atom
 Simply visit [Atom.io](Atom.io) to download and install.
@@ -36,13 +43,6 @@ In initial launch of Atom, Atom requires choosing a location for a project and t
 
 3. ###### Tips in markdown
 Some useful things to know about markdown are the following:
-
-| Feature      | Markdown     | Result   |
-|:-------------:|:-------------:|:---------:|
-| Bold Text     | \*\*Bold\*\* | **Bold** |
-| Heading 1      | \# Heading 1      | No Preview Available |
-| Links | \[Links](Enter url)     | [Links](#)
-| New Line | "Double Space" or "Enter" | No Preview Available |
 
 Markdown allows as many headings, just add the number of \# for the heading level.
 
