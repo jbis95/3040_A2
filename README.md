@@ -9,7 +9,7 @@ This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```
 ### Instruction
 
 #### Step 1: Edit Resume with Markdown
-To write things in Markdown, download a text editor such as [Atom](https://atom.io). Atom is light weight, modern and supports many different flavours of Markdown. To get started using Markdown, go visit this [tutorial](https://www.markdowntutorial.com/) to learn some basic Markdown before continuing. In addition, below is a table of useful Markdown features that are frequenly used to write a resume.
+To write things in Markdown, download a text editor such as [Atom](https://atom.io). Atom is light weight, modern and supports many different flavours of Markdown. The flavour of choice is GitHub Falvoured Markdown (GFM) because it is what GitHub uses and integrates well with Jekyll. To get started using Markdown, go visit this [tutorial](https://www.markdowntutorial.com/) to learn some basic Markdown before continuing. In addition, below is a table of useful Markdown features that are frequenly used to write a resume.
 
 | Feature      | Markdown     | Result   |
 |:-------------:|:-------------:|:---------:|
