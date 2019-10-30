@@ -27,7 +27,7 @@ GitHub Pages is a feature in GitHub that allows hosting a static site for free! 
 Go to ```github.com``` and enter a username and a password.
 
 ##### 2. Create a new repository
-On the main page, create a new repository. The name of the repository matters as stated in the mext step. All the files created will be stored in this repository and accessible to anyone.
+On the main page, create a new repository. The name of the repository matters as stated in the next step. All the files created will be stored in this repository and accessible to anyone.
 
 ##### 3. Name the repository [user].github.io
 The name of the repository must have the name [user].github.io where "user" is the username of the GitHub account. If the repository has a different name, GitHub Pages will not work with the url that is given to every GitHub account to visit the site.
