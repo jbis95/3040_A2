@@ -21,7 +21,7 @@ To write things in Markdown, download a text editor such as [Atom](https://atom.
 Most likely a resume is written in Word, so to convert into Markdown, type in the whole resume and format it to make it look like in Word.
 
 #### Step 2: Host Resume on GitHub Pages
-At the end of this step the Markdown file will become public and render at a url specified later. The resume will be viewable exactly how the preview window in Atom is shown. GitHub Pages is a feature in GitHub that allows hosting a static site for free! All you need is a Markdown file and a GitHub account. Exactly one site per GitHub account is allowed which makes it perfect to host a resume to impress future employers.
+GitHub Pages is a feature in GitHub that allows hosting a static site for free! All you need is a Markdown file and a GitHub account. Exactly one site per GitHub account is allowed which makes it perfect to host a resume to impress future employers. At the end of this step the Markdown file will become public and render at a url specified later. The resume will be viewable exactly how the preview window in Atom is shown.
 
 ##### 1. Login to GitHub
 Go to ```github.com``` and enter a username and a password.
