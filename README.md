@@ -44,6 +44,14 @@ At this stage, the resume is ready to be shown to world! To visit a GitHub Pages
 ### More resources
 
 #### Further Reading
+Here are some links to other useful resources for Markdown, GitHub Pages, and Jekyll.
+
+https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll
+
+https://www.markdownguide.org/cheat-sheet
+
+https://jekyllrb.com/tutorials/home/
+
 
 #### FAQ
 1. Do these tools work on any platform?  
