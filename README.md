@@ -9,7 +9,7 @@ This tutorial assumes basic knowledge of GitHub commands such as ```push```, ```
 ### Instruction
 
 #### Step 1: Edit Resume with Markdown
-To write things in Markdown, download a text editor such as [Atom](Atom.io). Atom is light weight, modern and supports many different flavours of Markdown. To get started using Markdown, go visit this [tutorial]() to learn some basic Markdown before continuing. In addition, below is a table of useful Markdown features that are frequenly used to write a resume.
+To write things in Markdown, download a text editor such as [Atom](Atom.io). Atom is light weight, modern and supports many different flavours of Markdown. To get started using Markdown, go visit this [tutorial](https://www.markdowntutorial.com/) to learn some basic Markdown before continuing. In addition, below is a table of useful Markdown features that are frequenly used to write a resume.
 
 | Feature      | Markdown     | Result   |
 |:-------------:|:-------------:|:---------:|
@@ -39,7 +39,7 @@ GitHub Pages requires the file that renders the page to be named ```index.md``` 
 Jekyll is the most popular static site generator that is well integrated into GitHub Pages. Its popularity invites a well known community of designers and developers to design and build themes that anyone can use. GitHub has chosen several themes that are made to be compatible with GitHub Pages. Simply go to ```Settings``` and scroll down to Github Pages and so to add and change themes is just one click of a button. Furthermore, choosing a theme from another source will also work by forking a themes repository and modifying the files to fit the resume.
 
 #### Step 4: View your resume online
-At this stage, the resume is ready to be shown to world! To visit a GitHub Pages site, simply enter ```[user].github.io``` in any browser. GitHub Pages will render the Markdown file with the Jekyll theme for anyone to see. One more thing is that the title of the page will be the same as the repository. To change this, open ```_config.yml``` and add the line ```title: RESUME```. This file allows you to do many other things that are outside of this tutorial. For information on how to do more advanced things with Github pages, start with this [tutorial](). 
+At this stage, the resume is ready to be shown to world! To visit a GitHub Pages site, simply enter ```[user].github.io``` in any browser. GitHub Pages will render the Markdown file with the Jekyll theme for anyone to see. One more thing is that the title of the page will be the same as the repository. To change this, open ```_config.yml``` and add the line ```title: RESUME```. This file allows you to do many other things that are outside of this tutorial. For information on how to do more advanced things with Github pages, start with this [documentation](https://jekyllrb.com/docs/configuration/). 
 
 ### More resources
 
