@@ -1,8 +1,4 @@
-## Jasmin Bissonnette
-705-11 Evergreen Place  
-Winnipeg, Manitoba R3L 2T9  
-(204) 510-1126  
-jasmingbissonnette@gmail.com  
+## Jasmin Bissonnette 
 
 ### JOB OBJECTIVE
 To gain full-time employment as a Software Developer
