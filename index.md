@@ -1,0 +1,2 @@
+[Resume](/resume)
+[mathematics](/math)
